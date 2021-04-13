@@ -1,4 +1,4 @@
-# NerdyGadgets
+# KBSD
 
 ## Wat te doen als je aan het werk gaat
 
